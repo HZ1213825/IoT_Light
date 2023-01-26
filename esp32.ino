@@ -7,7 +7,7 @@ const char *ssid = "K2FeO4";
 const char *password = "lxz123ac";
 const char *mqtt_server = "bemfa.com"; //onenet 的 IP地址
  
-#define mqtt_devid "858e79b6f49d47fb90f2bd9f9ca2d331"  //设备ID
+#define mqtt_devid "**********"  //设备ID
 #define mqtt_pubid "  "     //产品ID
 #define mqtt_password " " //鉴权信息
 const char*  mqtt_topic = "ESP32HomeRFLight2";
